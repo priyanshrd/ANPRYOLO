@@ -1,0 +1,6 @@
+path: C:/ANPRYOLO/
+train: labels/train
+val: labels/test
+
+names:
+  0: licence
