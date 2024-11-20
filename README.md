@@ -46,7 +46,7 @@ The ANPR system is designed to detect license plates in real-time, even under va
 ## Usage
 1. Run the main detection script:
     ```bash
-    python detect_license_plate.py --input path/to/video.mp4 --output output.csv
+    python main.py
     ```
 2. Results will be saved as `output.csv`, containing frame number, bounding boxes, car IDs, and license numbers with confidence scores.
 
