@@ -33,10 +33,11 @@ The ANPR system is designed to detect license plates in real-time, even under va
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/anpr-yolov8-easyocr.git
+    git clone https://github.com/priyanshrd/ANPRYOLO.git
     ```
 2. Install dependencies:
     ```bash
+    cd ANPRYOLO
     pip install -r requirements.txt
     ```
 3. Download pretrained YOLOv8 model weights and place them in the `models` directory.
